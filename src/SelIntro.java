@@ -24,6 +24,12 @@ public class SelIntro {
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
 		System.out.println("github");
+		
+		System.out.println("develope");
+		System.out.println("branch change");
+		
+		
+		
 		//driver.close();//closes current tab/window currently opened
 		//driver.quit();//closes all associated window
 		//hitting url on browser has get method
