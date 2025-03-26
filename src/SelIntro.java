@@ -23,6 +23,7 @@ public class SelIntro {
 		driver.get("https://rahulshettyacademy.com");
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
+		System.out.println("github");
 		//driver.close();//closes current tab/window currently opened
 		//driver.quit();//closes all associated window
 		//hitting url on browser has get method
