@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="Regression">
+    <classes>
+      <class name="abc.Day2"/>
+    </classes>
+  </test> <!-- Regression -->
+  <test name="Regression(failed)">
+    <classes>
+      <class name="abc.Day2">
+        <methods>
+          <include name="SencondDay"/>
+          <include name="BefClass"/>
+          <include name="AftClass"/>
+        </methods>
+      </class> <!-- abc.Day2 -->
+    </classes>
+  </test> <!-- Regression(failed) -->
+</suite> <!-- Failed suite [Suite] -->
