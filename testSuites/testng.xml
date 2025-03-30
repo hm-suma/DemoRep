@@ -3,7 +3,7 @@
 <suite name="Suite">
 <test name="Regression">
 <classes>
-<class name="abc.Day2"></class>
+<class name="SumaAutomation.WebTesting.TestngPro"></class>
 
 
 </classes>
