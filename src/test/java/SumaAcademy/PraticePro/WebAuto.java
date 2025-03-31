@@ -2,6 +2,7 @@ package SumaAcademy.PraticePro;
 
 import java.time.Duration;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
@@ -26,7 +27,7 @@ public class WebAuto {
 	@Test(priority = 2)
 	public void loginPage()
 	{
-		driver.close();
+		driver.findElement(By.cssSelector(".Pke_EE")).sendKeys("mobiles");
 	}
 }
 

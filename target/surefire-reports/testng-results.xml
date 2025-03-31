@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-31T20:58:50 IST" name="Suite" finished-at="2025-03-31T20:59:00 IST" duration-ms="10294">
+  <suite started-at="2025-03-31T20:53:48 IST" name="Suite" finished-at="2025-03-31T20:54:04 IST" duration-ms="16668">
     <groups>
     </groups>
-    <test started-at="2025-03-31T20:58:50 IST" name="Regression" finished-at="2025-03-31T20:59:00 IST" duration-ms="10294">
+    <test started-at="2025-03-31T20:53:48 IST" name="Regression" finished-at="2025-03-31T20:54:04 IST" duration-ms="16668">
       <class name="SumaAcademy.PraticePro.WebAuto">
-        <test-method signature="invokeBro()[pri:1, instance:SumaAcademy.PraticePro.WebAuto@15ff3e9e]" started-at="2025-03-31T20:58:50 IST" name="invokeBro" finished-at="2025-03-31T20:58:59 IST" duration-ms="9475" status="PASS">
+        <test-method signature="invokeBro()[pri:1, instance:SumaAcademy.PraticePro.WebAuto@5e0826e7]" started-at="2025-03-31T20:53:48 IST" name="invokeBro" finished-at="2025-03-31T20:54:04 IST" duration-ms="16208" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- invokeBro -->
-        <test-method signature="loginPage()[pri:2, instance:SumaAcademy.PraticePro.WebAuto@15ff3e9e]" started-at="2025-03-31T20:58:59 IST" name="loginPage" finished-at="2025-03-31T20:59:00 IST" duration-ms="752" status="PASS">
+        <test-method signature="loginPage()[pri:2, instance:SumaAcademy.PraticePro.WebAuto@5e0826e7]" started-at="2025-03-31T20:54:04 IST" name="loginPage" finished-at="2025-03-31T20:54:04 IST" duration-ms="397" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPage -->
